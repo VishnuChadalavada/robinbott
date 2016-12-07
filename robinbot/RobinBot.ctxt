@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=
+comment0.target=RobinBot()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ RobinBot\r\n
+comment1.params=statement\ key\ start
+comment1.target=int\ findKeyword(java.lang.String,\ java.lang.String,\ int)
+comment1.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\ \r\n\ @param\ \ statement\ \ \ the\ statement\ string\r\n\ @param\ \ key\ \ \ the\ key\ string\r\n\ @param\ \ start\ \ \ the\ start\ of\ the\ phrase\r\n\ \r\n\ @return\ \ \ \ \ the\ number\ of\ appearances\r\n
+comment2.params=name
+comment2.target=java.lang.String\ getGreeting(java.lang.String)
+comment2.text=\r\n\ Greeting\ Method,\ greets\ user\ with\ given\ name\r\n\ @param\ \ name\ \ \ name\ given\ by\ user\r\n\ @return\ \ \ \ \ Hello\ (name)\ \!\r\n
+comment3.params=name\ statement
+comment3.target=java.lang.String\ getResponse(java.lang.String,\ java.lang.String)
+comment3.text=\r\n\ Response\ Method,\ returns\ user\ with\ generated\ response\r\n\ @param\ \ name\ \ \ name\ given\ by\ user\r\n\ @param\ \ statement\ \ \ statement\ given\ by\ user\r\n\ @return\ \ \ \ \ RobinBot's\ Response\ to\ Statement\r\n
+comment4.params=length
+comment4.target=int\ generateRandInt(int)
+comment5.params=
+comment5.target=java.lang.String\ getRandomResponse()
+comment6.params=statement
+comment6.target=java.lang.String\ transformIWantToStatement(java.lang.String)
+comment6.text=\r\n\ Take\ a\ statement\ with\ "I\ want\ to\ <something>."\ and\ transform\ it\ into\ \r\n\ "What\ would\ it\ mean\ to\ <something>?"\r\n\ @param\ statement\ the\ user\ statement,\ assumed\ to\ contain\ "I\ want\ to"\r\n\ @return\ the\ transformed\ statement\r\n
+comment7.params=statement
+comment7.target=java.lang.String\ transformYouMeStatement(java.lang.String)
+comment7.text=\r\n\ Take\ a\ statement\ with\ "you\ <something>\ me"\ and\ transform\ it\ into\ \r\n\ "What\ makes\ you\ think\ that\ I\ <something>\ you?"\r\n\ @param\ statement\ the\ user\ statement,\ assumed\ to\ contain\ "you"\ followed\ by\ "me"\r\n\ @return\ the\ transformed\ statement\r\n
+numComments=8
