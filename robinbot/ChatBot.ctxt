@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=name\ greetingStatement
+comment0.target=java.lang.String\ RobinBot(java.lang.String,\ java.lang.String)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ ChatBot\r\n\ @param\ \ name\ \ \ name\ given\ by\ user\r\n\ @param\ \ statement\ \ \ statement\ given\ by\ user\r\n\ @return\ \ \ \ \ end\ of\ conversation\r\n
+numComments=1
